@@ -8,8 +8,7 @@ taken by [Gabriel](https://github.com/Jgabriel88) for the [Lighthouse Labs](http
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-
-1. How to commit on GitHub
-git add -A (or filename)
-git commit -m "comment"
+      1. How to commit on GitHub\
+git add -A (or filename)\
+git commit -m "comment"\
 git push -u origin master
